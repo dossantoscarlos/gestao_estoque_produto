@@ -1,4 +1,4 @@
-package com.dossantoscarlos.auth.modules.users;
+package com.dossantoscarlos.auth.modules.auth;
 
 import java.time.Instant;
 import java.util.stream.Collectors;
